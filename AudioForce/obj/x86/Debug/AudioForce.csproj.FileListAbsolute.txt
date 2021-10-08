@@ -1,0 +1,25 @@
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\bin\Debug\AudioForce.exe
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\bin\Debug\AudioForce.pdb
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\obj\x86\Debug\AudioForce.Form1.resources
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\obj\x86\Debug\AudioForce.Properties.Resources.resources
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\obj\x86\Debug\AudioForce.csproj.GenerateResource.Cache
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\obj\x86\Debug\AudioForce.exe
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\obj\x86\Debug\AudioForce.pdb
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\bin\Debug\AudioForce.exe.config
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\bin\Debug\NAudio.dll
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\bin\Debug\NAudio.WindowsMediaFormat.dll
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\bin\Debug\NAudio.xml
+c:\users\linder\documents\visual studio 2010\Projects\AudioForce\AudioForce\obj\x86\Debug\AudioForce.csprojResolveAssemblyReference.cache
+C:\Users\Linder\Documents\Visual Studio 2010\Projects\AudioForce\AudioForce\bin\Debug\MathNet.Numerics.pdb
+C:\Users\Linder\Documents\Visual Studio 2010\Projects\AudioForce\AudioForce\bin\Debug\MathNet.Numerics.xml
+C:\Users\Linder\Documents\Visual Studio 2010\Projects\AudioForce\AudioForce\bin\Debug\ZedGraph.xml
+D:\programming\freelance\AudioForce\AudioForce\bin\Debug\AudioForce.exe.config
+D:\programming\freelance\AudioForce\AudioForce\obj\x86\Debug\AudioForce.exe
+D:\programming\freelance\AudioForce\AudioForce\obj\x86\Debug\AudioForce.pdb
+D:\programming\freelance\AudioForce\AudioForce\bin\Debug\AudioForce.exe
+D:\programming\freelance\AudioForce\AudioForce\bin\Debug\AudioForce.pdb
+D:\programming\freelance\AudioForce\AudioForce\bin\Debug\NAudio.xml
+D:\programming\freelance\AudioForce\AudioForce\obj\x86\Debug\AudioForce.csprojResolveAssemblyReference.cache
+D:\programming\freelance\AudioForce\AudioForce\obj\x86\Debug\AudioForce.Properties.Resources.resources
+D:\programming\freelance\AudioForce\AudioForce\obj\x86\Debug\AudioForce.csproj.GenerateResource.Cache
+D:\programming\freelance\AudioForce\AudioForce\obj\x86\Debug\AudioForce.MainForm.resources
